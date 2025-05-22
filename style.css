@@ -1,0 +1,37 @@
+body {
+    background-color: #2696ff98;
+
+}
+
+.PFP {
+    width: 120px;
+    height: 120px;
+    background-image: url(DP.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 100%;
+}
+
+.name {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+input {
+    border-radius: 20px;
+    width: 300px;
+    height: 40px;
+    margin: 3px;
+}
+
+#login {
+    background-color: #595959;
+    color: white;
+}
+
+#forgot {
+    color: white;
+    text-decoration: none;
+}
